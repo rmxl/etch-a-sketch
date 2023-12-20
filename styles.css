@@ -1,0 +1,57 @@
+* {
+    border: 0;
+    margin: 0;
+    background-color: #242FA2;
+    font-family: "Roboto";
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonCont {
+    height: 15vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #242FA2;
+}
+
+button {
+    border-style: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 1em;
+    color:  #242582;
+} 
+
+.whole {
+    display: flex;
+    gap: 15vw;
+    color: white;
+    font-size: 3em;
+}
+
+.text {
+    margin-top: 20vh;
+    padding-left: 10vh;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 80vh;
+    width: 80vh;
+}
+
+.box {
+    box-sizing: border-box;
+    background-color: gray;
+    border: 1px solid white;
+    height: auto;
+}

@@ -2,6 +2,8 @@
 
 Etch-a-Sketch game created via HTML, CSS and JS.
 
+[LIVE DEMO](https://rmxl.github.io/etch-a-sketch/)
+
 ## Details
 
 - A square grid is present whose size can be decided by the user. Default size is 16x16.

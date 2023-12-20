@@ -1,7 +1,6 @@
 # etch-a-sketch
 
 Etch-a-Sketch game created via HTML, CSS and JS.
-Done with the help of the Odin Project.
 
 ## Details
 
